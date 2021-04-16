@@ -1,0 +1,30 @@
+.title{
+	text-align: center;
+	padding-top: 50px;
+}
+
+section{
+	padding-top: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+section>p{
+	text-align: justify;
+}
+
+.one{
+	background: #ec9c04;
+}
+.two{
+	background: #00a09b;
+}
+.three{
+	background: #9e0093;
+}
+.four{
+	background: #ed1c5e;
+}
+.images{
+	background: #bcbcbc;
+}
