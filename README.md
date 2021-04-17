@@ -49,4 +49,6 @@ https://idcloudhost.com/panduan/mengenal-apa-itu-framework-codeigniter/
 
 **9. Jalankan perintah**
 
+    - php spark serve
+  
 
