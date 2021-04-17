@@ -9,6 +9,7 @@ https://idcloudhost.com/panduan/mengenal-apa-itu-framework-codeigniter/
 **2. Siapkan Tools yang dibutuhkan** : 
 
   a. Software :
+  
       - XAMPP
       
       - Code Editor (I.D.E)
