@@ -24,8 +24,6 @@ https://youtu.be/Nt3YH68npW4
       
   - Composer : https://getcomposer.org/
 
-
-
 **3. Pastikan semua tools di atas sudah di download dan di install**
 
 **4. Buka Aplikasi XAMPP dan nyalakan MySQL dan APACHE**
@@ -36,7 +34,7 @@ https://youtu.be/Nt3YH68npW4
     
     composer   
     
-    # Berfungsi untuk mengecek apakah composer sudah berhasil di install atau belum, Jika sudah akan muncul tampilan ini di terminal :
+  - Berfungsi untuk mengecek apakah composer sudah berhasil di install atau belum, Jika sudah akan muncul tampilan ini di terminal :
     
   ![image](https://user-images.githubusercontent.com/71642382/115120764-5a802800-9fd9-11eb-908c-efa6e6a76135.png)
 
