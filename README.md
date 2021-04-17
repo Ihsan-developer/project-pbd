@@ -10,13 +10,13 @@ https://idcloudhost.com/panduan/mengenal-apa-itu-framework-codeigniter/
 
   a. Software :
   
-      - XAMPP
+      # XAMPP
       
-      - Code Editor (I.D.E)
+      # Code Editor (I.D.E)
        
   b. Package Manager :  
       
-      - Composer : https://getcomposer.org/
+      # Composer : https://getcomposer.org/
 
 **3. Pastikan semua tools di atas sudah di download dan di install**
 
@@ -33,7 +33,7 @@ https://idcloudhost.com/panduan/mengenal-apa-itu-framework-codeigniter/
 
 **<-- Eksekusi -->**
 
-**6. Silahkan buat satu folder dengan nama yang ditentukan di dalam folder htdocs yang berada di XAMPP  **
+**6. Silahkan buat satu folder dengan nama yang ditentukan di dalam folder htdocs yang berada di XAMPP**
   
   Contoh: C://xampp/htdocs/**wesite_ci4**
 
@@ -43,7 +43,7 @@ https://idcloudhost.com/panduan/mengenal-apa-itu-framework-codeigniter/
   
   Contoh: cd C://xampp/htdocs/wesite_ci4
 
-**9. Jalankan perintah **
+**9. Jalankan perintah**
 
 # Running Application Tests
 
