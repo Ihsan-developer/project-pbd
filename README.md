@@ -10,9 +10,13 @@ https://idcloudhost.com/panduan/mengenal-apa-itu-framework-codeigniter/
 
   a. Software :
   
-      a.1 XAMPP
+      - XAMPP : 
       
-      a.2 Code Editor (I.D.E)
+      https://www.apachefriends.org/download.html
+      
+      - Code Editor (I.D.E) :
+
+      https://code.visualstudio.com/download
        
   b. Package Manager :  
       
