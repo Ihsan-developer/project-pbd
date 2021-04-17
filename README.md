@@ -1,7 +1,9 @@
 **How to Setup This Website**
 
 **< -- Persiapan -->**
+
 **1. Pahami apa itu framework CodeIgniter :**
+
 https://idcloudhost.com/panduan/mengenal-apa-itu-framework-codeigniter/
 
 **2. Siapkan Tools yang dibutuhkan** : 
