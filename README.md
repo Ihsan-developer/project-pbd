@@ -23,7 +23,10 @@ https://idcloudhost.com/panduan/mengenal-apa-itu-framework-codeigniter/
  
  a. Buka terimal, dan ketikkan perintah : 
     
-    -  composer  : # Berfungsi untuk mengecek apakah composer sudah berhasil di install atau belum
+    composer   
+    
+    # Berfungsi untuk mengecek apakah composer sudah berhasil di install atau belum
+    
 
 **<-- Eksekusi -->**
 
