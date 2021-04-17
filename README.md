@@ -1,3 +1,7 @@
+Demo Link Website : https://project-pbd.000webhostapp.com/
+
+
+
 **How to Setup This Website**
 
 **< -- Persiapan -->**
@@ -6,17 +10,15 @@
 
 https://idcloudhost.com/panduan/mengenal-apa-itu-framework-codeigniter/
 
+https://youtu.be/Nt3YH68npW4
+
 **2. Siapkan Tools yang dibutuhkan** : 
 
   a. Software :
   
-  - XAMPP : 
-      
-  https://www.apachefriends.org/download.html
+  - XAMPP : https://www.apachefriends.org/download.html
        
-  - Code Editor (I.D.E) :
-
-  https://code.visualstudio.com/download
+  - Code Editor (I.D.E) : https://code.visualstudio.com/download
        
   b. Package Manager :  
       
@@ -52,5 +54,44 @@ https://idcloudhost.com/panduan/mengenal-apa-itu-framework-codeigniter/
 **9. Jika sudah di ekstrak file zip/rar project-pbd dan ditaruh di folder "website_ci4", maka langkah selanjutnya adalah membuka file tersebut di localhost dengan menuliskan perintah**
 
     - php spark serve
-  
+    
+  # CodeIgniter 4 berhasil dijalankan apabila muncul tulisan : 
 
+![image](https://user-images.githubusercontent.com/71642382/115119667-bf388400-9fd3-11eb-9407-60da74a599c8.png)
+
+  # Kemudian kunjungi http://localhost:8080
+  
+  **<-- Eksekusi Database -->**
+
+# Setelah kita berhasil menjalankan CodeIgniter 4 di localhost, langkah selanjutnya adalah, kita akan mengkonfigurasi databasenya
+
+  **10. Silahkan buka "phpmyadmin" dengan membuka kembali xampp control panel dan klik tombol "admin" pada "Module" MySQL**
+  
+  **11. Kemudian, klik tombol "new" dan pada bagian top bar terdapat tombol "import". Klik tombol "import" tersebut **
+  
+  ![image](https://user-images.githubusercontent.com/71642382/115119962-24d94000-9fd5-11eb-9af6-4ea82210d5b5.png)
+
+   **12. Pilih file yang bernama "ci4.sql" yang ada di folder website_ci4 yang sudah diekstrak dari zip/rar project-pbd dan klik "Go" agar database project-pbd dapat diimport**
+   
+   # Jika berhasil, berikut tampilan isi database ci4 :
+   
+   ![image](https://user-images.githubusercontent.com/71642382/115120056-9e712e00-9fd5-11eb-9eef-f17988b9e992.png)
+   
+   **13. Langkah berikutnya adalah dengan memigrasi database. Ketikkan perintah:**
+      
+       - php spark migrate 
+       
+   **14. Terakhir, buka Code Editor kalian dan pilih folder "website_ci4". Setelah itu, kalian bisa edit baik tampilan maupun isi database**
+   
+   #  app/views/beranda.php (Lokasi file beranda)
+   
+   # Terima kasih
+    
+   **15. Agar lebih paham cara menggunakan framework CodeIgniter 4. Silahkan klik link di bawah ini :**
+   
+   https://www.petanikode.com/codeigniter4-install/
+   
+   https://youtu.be/uiOHCqiLzk0
+   
+   
+   
