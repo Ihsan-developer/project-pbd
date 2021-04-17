@@ -10,9 +10,11 @@ https://idcloudhost.com/panduan/mengenal-apa-itu-framework-codeigniter/
 
   a. Software :
       - XAMPP
+      
       - Code Editor (I.D.E)
        
   b. Package Manager :  
+      
       - Composer : https://getcomposer.org/
 
 **3. Pastikan semua tools di atas sudah di download dan di install**
