@@ -20,17 +20,22 @@ https://idcloudhost.com/panduan/mengenal-apa-itu-framework-codeigniter/
 **4. Buka Aplikasi XAMPP dan nyalakan MySQL dan APACHE**
 
 **5. Kemudian, untk mengecek ketersediaan package manager silahkan**, 
-  a. Buka terimal, dan ketikkan perintah : 
+ 
+ a. Buka terimal, dan ketikkan perintah : 
+    
     - " composer "  : Berfungsi untuk mengecek apakah composer sudah berhasil di install atau belum
 
 **<-- Eksekusi -->**
+
 **6. Silahkan buat satu folder dengan nama yang ditentukan di dalam folder htdocs yang berada di XAMPP  **
+  
   Contoh: C://xampp/htdocs/**wesite_ci4**
 
 **7. Ekstrak File Zip/Rar yang berisi kode ke folder tersebut**
 
 **8. Silahkan buka terminal kalian, dan arahkan directory ke folder yang sudah dibuat tadi**
-   Contoh: cd C://xampp/htdocs/wesite_ci4
+  
+  Contoh: cd C://xampp/htdocs/wesite_ci4
 
 **9. Jalankan perintah **
 
