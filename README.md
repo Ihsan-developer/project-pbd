@@ -67,7 +67,7 @@ https://youtu.be/Nt3YH68npW4
 
   **10. Silahkan buka "phpmyadmin" dengan membuka kembali xampp control panel dan klik tombol "admin" pada "Module" MySQL**
   
-  **11. Kemudian, klik tombol "new" dan pada bagian top bar terdapat tombol "import". Klik tombol "import" tersebut **
+  **11. Kemudian, klik tombol "new" dan pada bagian top bar terdapat tombol "import". Klik tombol "import" tersebut**
   
   ![image](https://user-images.githubusercontent.com/71642382/115119962-24d94000-9fd5-11eb-9af6-4ea82210d5b5.png)
 
