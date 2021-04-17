@@ -38,7 +38,7 @@ https://youtu.be/Nt3YH68npW4
     
     # Berfungsi untuk mengecek apakah composer sudah berhasil di install atau belum, Jika sudah akan muncul tampilan ini di terminal :
     
-    ![image](https://user-images.githubusercontent.com/71642382/115120764-5a802800-9fd9-11eb-908c-efa6e6a76135.png)
+  ![image](https://user-images.githubusercontent.com/71642382/115120764-5a802800-9fd9-11eb-908c-efa6e6a76135.png)
 
     
 **<-- Eksekusi File -->**
