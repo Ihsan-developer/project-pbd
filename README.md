@@ -1,10 +1,11 @@
 **How to Setup This Website**
 
-**< -- Persiapan -->
-1. Pahami apa itu framework CodeIgniter :**
+**< -- Persiapan -->**
+**1. Pahami apa itu framework CodeIgniter :**
 https://idcloudhost.com/panduan/mengenal-apa-itu-framework-codeigniter/
 
 **2. Siapkan Tools yang dibutuhkan** : 
+
   a. Software :
       - XAMPP
       - Code Editor (I.D.E)
@@ -20,16 +21,16 @@ https://idcloudhost.com/panduan/mengenal-apa-itu-framework-codeigniter/
   a. Buka terimal, dan ketikkan perintah : 
     - " composer "  : Berfungsi untuk mengecek apakah composer sudah berhasil di install atau belum
 
-**<-- Eksekusi -->
-6. Silahkan buat satu folder dengan nama yang ditentukan di dalam folder htdocs yang berada di XAMPP  **
+**<-- Eksekusi -->**
+**6. Silahkan buat satu folder dengan nama yang ditentukan di dalam folder htdocs yang berada di XAMPP  **
   Contoh: C://xampp/htdocs/**wesite_ci4**
 
 **7. Ekstrak File Zip/Rar yang berisi kode ke folder tersebut**
 
-8. Silahkan buka terminal kalian, dan arahkan directory ke folder yang sudah dibuat tadi
+**8. Silahkan buka terminal kalian, dan arahkan directory ke folder yang sudah dibuat tadi**
    Contoh: cd C://xampp/htdocs/wesite_ci4
 
-9. Jalankan perintah 
+**9. Jalankan perintah **
 
 # Running Application Tests
 
