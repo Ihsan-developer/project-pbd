@@ -87,6 +87,11 @@ https://youtu.be/Nt3YH68npW4
    
    ![image](https://user-images.githubusercontent.com/71642382/115120485-f4df6c00-9fd7-11eb-9ce3-623b51a1e7e8.png)
    
+   ![image](https://user-images.githubusercontent.com/71642382/115150684-ac858400-a093-11eb-83a6-e08353382cd0.png)
+
+![image](https://user-images.githubusercontent.com/71642382/115150696-b909dc80-a093-11eb-89a0-ab3a0fc88fc4.png)
+
+   
    -  app/views/beranda.php (Lokasi file beranda)
    
    - Terima kasih
