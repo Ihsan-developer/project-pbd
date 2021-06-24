@@ -201,7 +201,7 @@
                     </ul>
                 </div>
 
-                <div class="col-lg-6" data-aos="fade-left">
+                <div class="col-lg-6" data-aos="fade-up">
                     <form id="saran" action="<?= base_url('home/saran') ?>" method='post'>
                         <?= csrf_field(); ?>
                         <div class="form-group">
