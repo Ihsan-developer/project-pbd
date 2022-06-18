@@ -54,6 +54,8 @@ https://youtu.be/Nt3YH68npW4
   - Jika sudah, silahkan delete seluruh file aplikasi default ci4 yang ada di folder "website_ci4", dan gantikan dengan hasil ekstraksi file zip/rar project-pbd yang sudah di download
 
 **9. Jika sudah di ekstrak file zip/rar project-pbd dan ditaruh di folder "website_ci4", maka langkah selanjutnya adalah membuka file tersebut di localhost dengan menuliskan perintah**
+    
+    - composer install
 
     - php spark serve
     
